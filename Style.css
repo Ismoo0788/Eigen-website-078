@@ -1,0 +1,42 @@
+
+
+
+body {
+  border: 1em inset blue;
+}
+
+
+h2 {
+  color: rgb(0, 0, 0);
+ border: 0.2em double maroon;
+border-radius     :     20px      0px      20px     0px;
+margin     :  0.5em   10%   0.5em   10%;
+color:   white; 
+background: #000000
+}
+
+
+h1 {
+  font-family: sans-serif;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+button {
+  float: right;
+}
+
+p {
+  font-size: 100%;
+}
+
+
+.div1 {
+  padding: 10px;
+}
+
+.div2 {
+  padding: 10px;
+}
